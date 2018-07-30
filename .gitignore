@@ -1,0 +1,4 @@
+*.pyc
+Pipfile.lock
+__pycache__
+sknerus.db
